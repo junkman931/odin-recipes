@@ -1,0 +1,23 @@
+html{
+    background-color: #FCF8E8;
+}
+
+h1{
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #94B49F;
+    text-align: center;
+}
+
+a{
+    color: #DF7861;
+    font-size: 20px;
+}
+
+div{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+}
